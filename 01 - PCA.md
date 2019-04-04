@@ -8,3 +8,5 @@
   + each individual has K values and can be considered a point in a K-dimensional space 
   + the set of individuals forms a cloud of I points in a K-dimensional space
   + the set of columns, i.e., the set of variables, can be seen as a cloud of K points in an I-dimensional space
+ - Standardizing data is necessary if units are different between variables
+ - PCA study the standardized data set
